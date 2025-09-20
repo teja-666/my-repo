@@ -1,4 +1,4 @@
-/* General Body and Container Styles */
+/* General Body and Container Style */
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -209,4 +209,5 @@ footer {
 
 footer p {
     margin: 0;
+
 }
